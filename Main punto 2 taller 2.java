@@ -37,7 +37,7 @@ public class Main {
         System.out.println("Los elementos que estan en la lista son: " + lista);
 
       
-        float gg=promedio(lista);
-        System.out.println("El promedio de las notas dadas es:"+(gg));
+        
+        System.out.println("El promedio de las notas dadas es:"+(promedio(lista)));
     }
 }
